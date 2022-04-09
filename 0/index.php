@@ -66,12 +66,12 @@ include('db.php');
 					<h1><a class="navbar-brand" href="index.php">Tijja <span> Hotel</span><p class="logo_w3l_agile_caption">Your Dreamy Resort</p></a></h1>
 				</div>
 				<!-- Collect the nav links, forms, and other content for toggling -->
-				<div class="collapse navbar-collapse navbar-right" id="bs-example-navbar-collapse-1">
+				<div class="collapse navbar-collapse navbar-right" id="bs-example-navbar-collapse-1" >
 					<nav class="menu menu--iris">
 						<ul class="nav navbar-nav menu__list">
 							<li class="menu__item menu__item--current"><a href="" class="menu__link">Home</a></li>
 							<li class="menu__item"><a href="#about" class="menu__link scroll">About</a></li>
-							<li class="menu__item"><a href="#team" class="menu__link scroll">Team</a></li>
+							<li class="menu__item"><a href="#team" class="menu__link scroll">About Me</a></li>
 							<li class="menu__item"><a href="#gallery" class="menu__link scroll">Gallery</a></li>
 							<li class="menu__item"><a href="#rooms" class="menu__link scroll">Rooms</a></li>
 							<li class="menu__item"><a href="#contact" class="menu__link scroll">Contact Us</a></li>
@@ -153,7 +153,7 @@ include('db.php');
 								<div class="modal-content">
 									<div class="modal-header">
 										<button type="button" class="close" data-dismiss="modal">&times;</button>
-										<h4>SUN  <span>RISE</span></h4>
+										<h4>Tijja<span>Hotel</span></h4>
 										<img src="images/1.jpg" alt=" " class="img-responsive">
 										<h5>We know what you love</h5>
 										<p>Providing guests unique and enchanting views from their rooms with its exceptional amenities, makes Star Hotel one of bests in its kind.Try our food menu, awesome services and friendly staff while you are here.</p>
@@ -214,7 +214,7 @@ include('db.php');
  	<div class="about-wthree" id="about">
 		  <div class="container">
 				   <div class="ab-w3l-spa">
-                            <h3 class="title-w3-agileits title-black-wthree">About Our SUN RISE</h3> 
+                            <h3 class="title-w3-agileits title-black-wthree">About Our Tijja Hotel</h3> 
 						   <p class="about-para-w3ls">abirtijja/abirtijja/abirtijja/abirtijja/abirtijja/abirtijja/abirtijja/abirtijja.</p>
 						   <img src="images/about.jpg" class="img-responsive" alt="Hair Salon">
 										<div class="w3l-slider-img">
@@ -554,7 +554,7 @@ include('db.php');
 								<p>Sed tempus vestibulum lacus blandit faucibus. 
 									Nunc imperdiet, diam nec rhoncus ullamcorper, nisl nulla suscipit ligula, 
 									at imperdiet urna. </p>
-								<h5>Jahnatan Smith</h5>
+								<h5>Jahna Smith</h5>
 								<p>United States</p>
 							</div>
 							<div class="clearfix"> </div>
@@ -806,5 +806,3 @@ fit: true
 <script type="text/javascript" src="js/bootstrap-3.1.1.min.js"></script>
 </body>
 </html>
-
-
